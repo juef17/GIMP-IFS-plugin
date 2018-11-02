@@ -4,11 +4,11 @@
 |   Copyright François Gingras      |
 |   July 9th, 2010                  |
 |                                   |
-|	2018-08-09 license:				|
+|   2018-08-09 license:             |
 |   Use & distribute as you please, |
 |   but please give credit! Thanks! |
 |                                   |
-|	2018-11-02 license: GPL2		|
+|   2018-11-02 license: GPL2        |
 \*__________________________________*/
 
 #define IFS_SETTINGS_FILE "ifs.txt"
